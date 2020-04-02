@@ -1,0 +1,1 @@
+# lifegame_go_example
