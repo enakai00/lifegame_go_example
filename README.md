@@ -33,3 +33,7 @@ go run lifegame.go
  Move Cursor: [←][↓][↑][→] (or [h][j][k][l]), Flip Cell State: [SPACE]
  Pause/Run: [ESC], Quit: [Ctrl]+[C]
 ```
+
+## Gif movie
+
+[Here!](https://github.com/enakai00/lifegame_go_example/blob/master/screenshot.gif)
