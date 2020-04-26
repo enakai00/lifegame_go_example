@@ -2,7 +2,6 @@
 
 ## How to use
 ```
-go get github.com/nsf/termbox-go
 go run lifegame.go
 ```
 
